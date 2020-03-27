@@ -9,3 +9,5 @@ Herramienta para obtener información y ubicación, de una dirección IP o Domin
 <p>[-] cd iphunter</p>
 <p>[-] python iphunter.py</p><br>
 <strong>Ingrese una dirección IP o Dominio, IPHunter obtine e imprime en pantalla, la información sobre el recurso ingresado, entregando la ubicación del mismo.</strong>
+<p>Más información: https://informaticayhacking.com/iphunter.php</p>
+<p>https://t.me/Informatica_y_Hacking</p>
